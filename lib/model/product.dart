@@ -93,21 +93,21 @@ class Product {
   // Map'ten oluşturma
   factory Product.fromMap(Map<String, dynamic> map) {
     // Güvenli sayı dönüşümü için yardımcı fonksiyonlar
-    double _safeToDouble(dynamic value) {
+    double safeToDouble(dynamic value) {
       if (value == null) return 0.0;
       final doubleVal = value.toDouble();
       if (doubleVal.isNaN || doubleVal.isInfinite) return 0.0;
       return doubleVal;
     }
     
-    int _safeToInt(dynamic value) {
+    int safeToInt(dynamic value) {
       if (value == null) return 0;
       final intVal = value.toInt();
       if (intVal.isNaN || intVal.isInfinite) return 0;
       return intVal;
     }
 
-    DateTime _parseDateTime(dynamic value) {
+    DateTime parseDateTime(dynamic value) {
       if (value == null) return DateTime.now();
       
       // Firebase Timestamp tipini kontrol et
@@ -146,18 +146,18 @@ class Product {
     return Product(
       id: map['id'] ?? '',
       name: map['name'] ?? '',
-      price: _safeToDouble(map['price']),
+      price: safeToDouble(map['price']),
       imageUrl: imageUrl,
       description: map['description'] ?? '',
       category: map['category'] ?? '',
-      stock: _safeToInt(map['stock']),
-      quantity: _safeToInt(map['quantity']) > 0 ? _safeToInt(map['quantity']) : 1,
-      discountPercentage: _safeToDouble(map['discountPercentage']),
-      averageRating: _safeToDouble(map['averageRating']),
-      reviewCount: _safeToInt(map['reviewCount']),
-      salesCount: _safeToInt(map['salesCount']),
+      stock: safeToInt(map['stock']),
+      quantity: safeToInt(map['quantity']) > 0 ? safeToInt(map['quantity']) : 1,
+      discountPercentage: safeToDouble(map['discountPercentage']),
+      averageRating: safeToDouble(map['averageRating']),
+      reviewCount: safeToInt(map['reviewCount']),
+      salesCount: safeToInt(map['salesCount']),
       createdAt: map['createdAt'] != null 
-          ? _parseDateTime(map['createdAt'])
+          ? parseDateTime(map['createdAt'])
           : DateTime.now(),
     );
   }
