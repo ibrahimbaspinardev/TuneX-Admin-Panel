@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ibrahimbaspinar00.github.io/TuneX-Admin-Panel/sitemap.xml

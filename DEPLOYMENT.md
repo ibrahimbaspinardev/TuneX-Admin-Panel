@@ -1,6 +1,6 @@
 # 🚀 Deployment Rehberi
 
-Bu rehber, Tuning App Admin Panel'i GitHub'a yükleyip Firebase Hosting ile yayınlama adımlarını içerir.
+Bu rehber, TuneX Admin Panel'i GitHub'a yukleyip Firebase Hosting ile yayinlama adimlarini icerir.
 
 ## 📋 Ön Hazırlık
 
@@ -22,7 +22,7 @@ Bu rehber, Tuning App Admin Panel'i GitHub'a yükleyip Firebase Hosting ile yay�
 
 ```bash
 # Proje klasörüne gidin
-cd tuning_admin_panel
+cd TuneX-Admin-Panel
 
 # Git'i başlatın (eğer başlatılmadıysa)
 git init

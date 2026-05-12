@@ -33,7 +33,7 @@ jobs:
       run: flutter pub get
       
     - name: Build web
-      run: flutter build web --release --base-href "/tuning_mobil_admin_panel/"
+      run: flutter build web --release --base-href "/TuneX-Admin-Panel/"
       
     - name: Setup Pages
       uses: actions/configure-pages@v4

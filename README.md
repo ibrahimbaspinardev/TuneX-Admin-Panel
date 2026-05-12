@@ -1,4 +1,4 @@
-# Tuning App Admin Panel
+# TuneX Admin Panel
 
 Modern ve kapsamlı Flutter web admin paneli. Ürün yönetimi, sipariş takibi, kullanıcı yönetimi ve detaylı raporlama özellikleri sunar.
 
@@ -80,8 +80,8 @@ Modern ve kapsamlı Flutter web admin paneli. Ürün yönetimi, sipariş takibi,
 ### 1. Projeyi Klonlayın
 
 ```bash
-git clone https://github.com/KULLANICI_ADI/tuning_admin_panel.git
-cd tuning_admin_panel
+git clone https://github.com/ibrahimbaspinar00/TuneX-Admin-Panel.git
+cd TuneX-Admin-Panel
 ```
 
 ### 2. Bağımlılıkları Yükleyin
@@ -143,7 +143,7 @@ Proje GitHub Pages için hazırlanmıştır! Tamamen ücretsiz hosting.
 2. **Source** olarak **GitHub Actions** seçin
 3. Her push'ta otomatik deploy olacak!
 
-**Site URL:** `https://ibrahimbaspinar00.github.io/tuning_mobil_admin_panel/`
+**Site URL:** `https://ibrahimbaspinar00.github.io/TuneX-Admin-Panel/`
 
 Detaylı rehber için: [GITHUB_PAGES_SETUP.md](GITHUB_PAGES_SETUP.md)
 

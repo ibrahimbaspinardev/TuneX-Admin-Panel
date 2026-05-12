@@ -121,7 +121,7 @@ class GmailSMTPService {
       
       // Email mesajı oluştur
       final message = Message()
-        ..from = Address(username, 'Tuning App Admin Panel')
+        ..from = Address(username, 'TuneX Admin Panel')
         ..recipients.add(email)
         ..subject = 'Şifre Sıfırlama Kodunuz'
         ..text = '''
@@ -138,7 +138,7 @@ Not: Bu kod 10 dakika geçerlidir.
 Güvenliğiniz için bu kodu kimseyle paylaşmayın.
 
 İyi günler,
-Tuning App Admin Paneli
+TuneX Admin Paneli
         ''';
       
       // Email gönder
@@ -175,7 +175,7 @@ Tuning App Admin Paneli
       );
       
       final message = Message()
-        ..from = Address(username, 'Tuning App Admin Panel')
+        ..from = Address(username, 'TuneX Admin Panel')
         ..recipients.add(email)
         ..subject = 'Test Email'
         ..text = 'Bu bir test emailidir.';

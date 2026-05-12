@@ -17,7 +17,7 @@ GitHub Pages, GitHub repository'leriniz için **tamamen ücretsiz** statik web s
 
 ### 1️⃣ GitHub Repository Ayarları
 
-1. GitHub repository'nize gidin: `https://github.com/ibrahimbaspinar00/tuning_mobil_admin_panel`
+1. GitHub repository'nize gidin: `https://github.com/ibrahimbaspinar00/TuneX-Admin-Panel`
 2. **Settings** sekmesine tıklayın
 3. Sol menüden **Pages** seçeneğine tıklayın
 4. **Source** bölümünden **GitHub Actions** seçin
@@ -42,7 +42,7 @@ GitHub Pages, GitHub repository'leriniz için **tamamen ücretsiz** statik web s
 Deployment tamamlandıktan sonra siteniz şu adreste yayında olacak:
 
 ```
-https://ibrahimbaspinar00.github.io/tuning_mobil_admin_panel/
+https://ibrahimbaspinar00.github.io/TuneX-Admin-Panel/
 ```
 
 ## 🔄 Güncelleme Yapmak
@@ -65,10 +65,10 @@ GitHub Actions otomatik olarak:
 
 ### Base Href
 
-Repository adınız `tuning_mobil_admin_panel` olduğu için, build komutu şu şekilde çalışıyor:
+Repository adiniz `TuneX-Admin-Panel` oldugu icin, build komutu su sekilde calisiyor:
 
 ```bash
-flutter build web --release --base-href "/tuning_mobil_admin_panel/"
+flutter build web --release --base-href "/TuneX-Admin-Panel/"
 ```
 
 Eğer repository adını değiştirirseniz, `.github/workflows/deploy.yml` dosyasındaki `--base-href` değerini de güncellemeniz gerekir.
@@ -120,7 +120,7 @@ Eğer build hatası alırsanız:
 
 Artık admin paneliniz tamamen ücretsiz olarak GitHub Pages'de yayında!
 
-**Site URL:** `https://ibrahimbaspinar00.github.io/tuning_mobil_admin_panel/`
+**Site URL:** `https://ibrahimbaspinar00.github.io/TuneX-Admin-Panel/`
 
 ---
 

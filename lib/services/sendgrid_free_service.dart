@@ -138,7 +138,7 @@ Not: Bu kod 10 dakika geçerlidir.
 Güvenliğiniz için bu kodu kimseyle paylaşmayın.
 
 İyi günler,
-Tuning App Admin Paneli
+TuneX Admin Paneli
             '''
           }
         ]

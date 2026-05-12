@@ -36,7 +36,7 @@ class _WebAdminAppState extends State<WebAdminApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Tuning App - Admin Panel',
+      title: 'TuneX Admin Panel',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,

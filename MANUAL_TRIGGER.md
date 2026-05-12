@@ -2,7 +2,7 @@
 
 ## Yöntem 1: GitHub UI'dan Manuel Tetikleme
 
-1. Repository'nize gidin: `https://github.com/ibrahimbaspinar00/tuning_mobil_admin_panel`
+1. Repository'nize gidin: `https://github.com/ibrahimbaspinar00/TuneX-Admin-Panel`
 2. **Actions** sekmesine tıklayın
 3. Sol menüden **"Build and Deploy to GitHub Pages"** workflow'unu seçin
 4. Sağ üstte **"Run workflow"** butonuna tıklayın

@@ -30,7 +30,7 @@ GitHub Actions workflow'u otomatik olarak tetiklenecek ve:
 Deployment tamamlandıktan sonra (2-5 dakika):
 
 ```
-https://ibrahimbaspinar00.github.io/tuning_mobil_admin_panel/
+https://ibrahimbaspinar00.github.io/TuneX-Admin-Panel/
 ```
 
 Bu URL'yi tarayıcıda açarak admin panelinizi görebilirsiniz!
@@ -96,7 +96,7 @@ GitHub Actions otomatik olarak:
 
 Artık admin paneliniz tamamen ücretsiz olarak GitHub Pages'de yayında!
 
-**Site URL:** `https://ibrahimbaspinar00.github.io/tuning_mobil_admin_panel/`
+**Site URL:** `https://ibrahimbaspinar00.github.io/TuneX-Admin-Panel/`
 
 ---
 
