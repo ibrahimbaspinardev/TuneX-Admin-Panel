@@ -17,7 +17,7 @@ GitHub Pages, GitHub repository'leriniz için **tamamen ücretsiz** statik web s
 
 ### 1️⃣ GitHub Repository Ayarları
 
-1. GitHub repository'nize gidin: `https://github.com/ibrahimbaspinar00/TuneX-Admin-Panel`
+1. GitHub repository'nize gidin: `https://github.com/ibrahimbaspinardev/TuneX-Admin-Panel`
 2. **Settings** sekmesine tıklayın
 3. Sol menüden **Pages** seçeneğine tıklayın
 4. **Source** bölümünden **GitHub Actions** seçin
@@ -42,7 +42,7 @@ GitHub Pages, GitHub repository'leriniz için **tamamen ücretsiz** statik web s
 Deployment tamamlandıktan sonra siteniz şu adreste yayında olacak:
 
 ```
-https://ibrahimbaspinar00.github.io/TuneX-Admin-Panel/
+https://ibrahimbaspinardev.github.io/TuneX-Admin-Panel/
 ```
 
 ## 🔄 Güncelleme Yapmak
@@ -120,7 +120,7 @@ Eğer build hatası alırsanız:
 
 Artık admin paneliniz tamamen ücretsiz olarak GitHub Pages'de yayında!
 
-**Site URL:** `https://ibrahimbaspinar00.github.io/TuneX-Admin-Panel/`
+**Site URL:** `https://ibrahimbaspinardev.github.io/TuneX-Admin-Panel/`
 
 ---
 

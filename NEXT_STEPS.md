@@ -19,7 +19,7 @@ GitHub Actions workflow'u otomatik olarak tetiklenecek ve:
 ### 2. Deployment Durumunu Kontrol Edin
 
 1. Repository'nizde **Actions** sekmesine gidin
-2. En üstte "Build and Deploy to GitHub Pages" workflow'unu göreceksiniz
+2. En üstte "Deploy GitHub Pages" workflow'unu göreceksiniz
 3. Durum:
    - 🟡 **Sarı daire** = Çalışıyor (build alınıyor)
    - 🟢 **Yeşil tik** = Başarılı (site yayında!)
@@ -30,7 +30,7 @@ GitHub Actions workflow'u otomatik olarak tetiklenecek ve:
 Deployment tamamlandıktan sonra (2-5 dakika):
 
 ```
-https://ibrahimbaspinar00.github.io/TuneX-Admin-Panel/
+https://ibrahimbaspinardev.github.io/TuneX-Admin-Panel/
 ```
 
 Bu URL'yi tarayıcıda açarak admin panelinizi görebilirsiniz!
@@ -96,7 +96,7 @@ GitHub Actions otomatik olarak:
 
 Artık admin paneliniz tamamen ücretsiz olarak GitHub Pages'de yayında!
 
-**Site URL:** `https://ibrahimbaspinar00.github.io/TuneX-Admin-Panel/`
+**Site URL:** `https://ibrahimbaspinardev.github.io/TuneX-Admin-Panel/`
 
 ---
 

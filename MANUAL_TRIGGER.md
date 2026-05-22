@@ -2,9 +2,9 @@
 
 ## Yöntem 1: GitHub UI'dan Manuel Tetikleme
 
-1. Repository'nize gidin: `https://github.com/ibrahimbaspinar00/TuneX-Admin-Panel`
+1. Repository'nize gidin: `https://github.com/ibrahimbaspinardev/TuneX-Admin-Panel`
 2. **Actions** sekmesine tıklayın
-3. Sol menüden **"Build and Deploy to GitHub Pages"** workflow'unu seçin
+3. Sol menüden **"Deploy GitHub Pages"** workflow'unu seçin
 4. Sağ üstte **"Run workflow"** butonuna tıklayın
 5. Branch olarak **"main"** seçin
 6. **"Run workflow"** butonuna tıklayın
@@ -43,7 +43,7 @@ git push origin main
 ## 🎯 En Hızlı Yöntem
 
 **GitHub UI'dan manuel tetikleme** en hızlı yöntemdir:
-1. Actions → Build and Deploy to GitHub Pages → Run workflow
+1. Actions → Deploy GitHub Pages → Run workflow
 
 ---
 
